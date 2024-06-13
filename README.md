@@ -283,3 +283,72 @@ spacing botttom
 mb-3
 ```
 
+### 10. Responsive Website
+
+Max col length: 12
+
+
+Small Phone
+```
+col-12
+
+```
+
+Desktop Site
+
+```
+col-md-
+```
+
+
+Phone Protrait Mode
+
+```
+
+col-sm-6
+
+```
+
+### 11. Adding colors
+
+background color black and text white
+```
+bg-black text-white
+
+
+
+```
+All these don't change in the links tags
+
+
+To change in the link tag the class should be added
+
+```
+text-white
+```
+
+
+To remove the underline in the links
+
+```
+text-decoration-none
+```
+
+
+To change the color of the while body
+
+```
+bg-secondary
+```
+
+
+### 12. Deflex
+
+*Start
+*End
+*Center
+
+```
+d-flex justify-content-end
+
+```
