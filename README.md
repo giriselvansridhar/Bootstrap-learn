@@ -352,3 +352,146 @@ bg-secondary
 d-flex justify-content-end
 
 ```
+
+
+```
+
+col-12 col-md-6 mt-3 d-flex justify-content-start justify-content-md-end">
+```
+### 13.Images
+Generate Lorem images
+```
+
+<img src="https://picsum.photos/300/200" alt="">
+```
+gives width=100% in css. It makes the images give a good fit. Make it reponsive
+```
+class="img-fluid"
+```
+
+```
+rounded
+```
+
+### 14. Cards
+
+```
+card 
+```
+Card Body
+```
+card-body
+```
+Card Title
+```
+card-title
+```
+
+Card Text
+
+```
+card-text
+```
+### 15. Forms
+
+```
+form-group
+```
+
+```
+form-control
+```
+
+
+```
+class="btn btn-secondary"
+```
+
+
+
+```
+col-lg-6
+```
+
+
+Reference for form
+
+
+```
+
+<div class="container mb-2 mt-2 ">
+
+            <div class="row ">
+
+
+
+                <div class="col-12 col-lg-6 bg-white rounded p-2">
+
+                    <h2>Contact Form</h2>
+
+
+                    <form action="">
+
+                        <div class="form-group" >
+                            <label for="">Emain Address</label>
+
+                            <input type="email" name="" id="" class="form-control">
+                        </div>
+
+                        <div class="form-gorup">
+                            <label for="">Name</label>
+                            <input type="text" class="form-control">
+
+                        </div>
+
+
+                        <div class="form-group">
+                            <label for="">Message</label>
+                        <textarea name="" id="" cols="30" class="form-control"></textarea>
+
+                        </div>
+                        
+                       
+                        
+                        <button class="btn btn-primary my-2">Submit</button>
+
+
+
+                        
+                    </form>
+
+
+                </div>
+
+            
+
+
+        </div>         
+
+
+
+
+
+                </div>
+            </div>
+
+        </div>
+
+
+
+
+   </div>
+
+</div>
+```
+
+### 16. Fixed Navbar
+
+```
+fixed-top
+```
+
+
+```
+sticky-top
+```
