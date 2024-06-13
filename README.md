@@ -1,6 +1,9 @@
 # Bootstrap
 
-The CSS framework used to simplofy the CSS. 
+
+Defination: __It is a  CSS framework used to simplify the CSS.__ 
+
+---
 
 ### 1.SET UP
 
@@ -20,3 +23,166 @@ The CSS framework used to simplofy the CSS.
 
 
 ```
+
+### 2. Container
+Types:  
+
+* fixed width
+
+
+```
+
+<div class="container">
+
+</div>
+```
+
+
+
+
+
+
+
+* full width
+
+
+```
+
+<div class="container-fluid">
+
+</div>
+```
+
+
+### 3.Typography
+
+
+```
+<p class="h1"></p>
+<p class="h2"></p>
+<p class="h3"></p>
+<p class="h4"></p>
+<p class="h5"></p>
+<p class="h6"></p>
+
+```
+```
+
+<p class="display-1">Display Heading</p>
+```
+      
+
+### 4. Text Colors:
+
+
+
+```
+<p class="text-muted">The Text is muted</p>
+
+
+```
+
+```
+tex-primary
+text-success
+text-info
+text-warning
+text-danger
+text-secondary
+text-white bg-dark
+text-dark
+text-light bg-dark
+```
+
+### 5. Background color
+
+```
+bg-primary
+bg-success
+bg-danger
+bg-warning
+```
+
+
+### 6. Rows and Columns (Grid System)
+
+Container  
+
+* Fixed Width (fixed width)
+* Full Width  (Automatically change)
+
+
+Everything should be kept in container  
+
+
+max_col=12
+
+1*12,2*6,3*4  
+
+
+```
+<div class="conatiner">
+
+<div class="row">
+    <div class="col">
+        <p>This is a simple column in row</p>
+    </div>
+
+    <div>
+        <p>This is a simple column in a column</p>
+    </div>
+
+
+</div>
+</div>
+
+```
+
+### 7. Blog Layout
+
+
+```
+<div class="row">
+
+<div class="col"></div>
+</div>
+
+<header>
+
+<div class="row">
+
+<div class="col">
+
+<h1></h1>
+</div>
+
+<div class="col">
+
+<nav>
+
+<ul class='list-inline'>
+
+<li clas="list-inline-item"><a href="#"></a></li>
+
+
+<ul>
+</nav>
+
+</div>
+</header>
+
+
+
+
+<footer>
+</footer>
+
+
+
+
+```
+
+###8. Paddlin
+
+
+
