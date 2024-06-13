@@ -241,4 +241,46 @@ pb-3
 
 
 
+Paddling allarunf all the element
+
+```
+m-2
+
+```
+
+There is paddling from p 0-5
+
+
+Spacing in the x axis
+```
+mx-5
+```
+
+Spacing in the y axis
+```
+my-5
+```
+
+
+Spacing right 
+```
+ms-3
+```
+spacing Left
+
+```
+me-3
+```
+
+Spacing Top
+```
+mt-3
+```
+
+spacing botttom
+
+```
+mb-3
+'''
+
 
