@@ -495,3 +495,7 @@ fixed-top
 ```
 sticky-top
 ```
+
+
+### 17.Heght and width
+
