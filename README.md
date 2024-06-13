@@ -186,3 +186,6 @@ max_col=12
 
 
 
+* Container has space between each sides.
+* Footer and header can be placed outside of the container.
+
