@@ -186,6 +186,59 @@ max_col=12
 
 
 
-* Container has space between each sides.
-* Footer and header can be placed outside of the container.
+1. Container give space between each sides.
+2. So, Footer and header can be placed outside of the container.
+
+Paddling allarunf all the element
+
+```
+p-2
+
+```
+
+There is paddling from p 0-5
+
+
+Spacing in the x axis
+```
+px-5
+```
+
+Spacing in the y axis
+```
+py-5
+```
+
+
+Spacing right 
+```
+ps-3
+```
+spacing Left
+
+```
+pe-3
+```
+
+Spacing Top
+```
+pt-3
+```
+
+spacing botttom
+
+```
+pb-3
+```
+
+### 9.Marigin
+
+
+
+|Paddling|Marigin|
+|-----|-----|
+|Inner Space|Outer Space|
+
+
+
 
