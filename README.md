@@ -499,3 +499,11 @@ sticky-top
 
 ### 17.Heght and width
 
+
+```
+h-2
+```
+
+```
+w-3
+```
